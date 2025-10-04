@@ -21,39 +21,39 @@ body{
 */
 
 .life, .mindfulness, .self-reflection, .empathy, .forgiveness{
-    background-image: url("assets/img/life.jpg");
+    background-image: url("../img/life.jpg");
 }
 
 .justice, .integrity{
-    background-image: url("assets/img/justice.jpg");
+    background-image: url("../img/justice.jpg");
 }
 
 .hope, .harmony, .patience, .knowledge, .wisdom, .purpose, .general{
-    background-image: url("assets/img/wisdom.jpg");
+    background-image: url("../img/wisdom.jpg");
 }
 
 .love, .friendship, .happiness, .gratitude{
-    background-image: url("assets/img/love.jpg");
+    background-image: url("../img/love.jpg");
 }
 
 .leadership{
-    background-image: url("assets/img/leadership.webp");
+    background-image: url("../img/leadership.webp");
 }
 
 .change{
-    background-image: url("assets/img/change.webp");
+    background-image: url("../img/change.webp");
 }
 
 .perseverance, .growth, .courage, .resilience, .inspiration, .motivation, .success{
-    background-image: url("assets/img/motivation.jpg");
+    background-image: url("../img/motivation.jpg");
 }
 
 .creativity{
-    background-image: url("assets/img/creativity.jpg");
+    background-image: url("../img/creativity.jpg");
 }
 
 .anger, .fear, .humility{
-    background-image: url("assets/img/sad.jpg");
+    background-image: url("../img/sad.jpg");
 
     ~.main-container .up-box, ~.main-container .down-box{
     background-color: rgb(248, 224, 228, 0.15);
