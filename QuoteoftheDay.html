@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Quote of the Day</title>
+
+        <!-- Reset and main stylesheets -->
+        <link rel="stylesheet" href="reset_stylesheet.css">
+        <link rel="stylesheet" href="stylesheet.css">
+    </head>
+    <body>
+        <!-- Background image container -->
+        <div class="background-img general"></div>
+        
+        <!-- Main layout wrapper for stacked quote boxes -->
+        <div class="main-container">
+            <!-- Decorative/structural boxes around the quote -->
+            <div class="box up-box"></div>
+            <div class="box second-up-box"></div>
+            
+            <!-- Central quote box -->
+            <div class="box main-box">
+                <div class="quote-block">
+                    <figure>
+                        <!-- Quote text -->
+                        <blockquote class="quote">"This is a quote."</blockquote>
+                        <!-- Quote author -->
+                        <figcaption class="name">- <cite>Author Name</cite></figcaption>
+                    </figure>
+                </div>
+            </div>
+            
+            <!-- Decorative/structural boxes around the quote -->
+            <div class="box down-box"></div>
+        </div>
+        
+        <!-- JavaScript for dynamic functionality (i.e. fetching quotes) -->
+        <script src="script.js"></script>
+    </body>
+</html>
