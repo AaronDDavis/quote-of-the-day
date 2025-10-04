@@ -2,8 +2,8 @@
 
 A lightweight web app that displays an inspiring new quote each day, styled with modern glassmorphism and dynamic backgrounds switching to match the theme of the quote.
 
-## 📸 Demo View
-![App Screenshot](assets/img/screenshot.png)
+## 🔗 Live Demo
+![Webpage Link](https://aaronddavis.github.io/quote-of-the-day)
 
 
 ---
